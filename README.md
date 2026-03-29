@@ -10,7 +10,7 @@ the rigorous simulator with R² = 0.9998 and evaluates ~100,000× faster, enabli
 practical multi-objective optimisation with NSGA-II.
 
 <p align="center">
-  <img src="figures/dwsim_oil_gas_flowsheet.png" width="1000">
+  <img src="dwsim-oilgas-surrogate/figures/dwsim_oil_gas_flowsheet.png" width="1000">
 </p>
 
 **Optimisation results** (vs design base case from Andreasen 2022, Table 1):
