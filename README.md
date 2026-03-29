@@ -9,7 +9,7 @@ North Sea crude oil stabilisation plant simulated in DWSIM. The surrogate replic
 the rigorous simulator with R² = 0.9998 and evaluates ~100,000× faster, enabling 
 practical multi-objective optimisation with NSGA-II.
 
-![DWSIM oil & gas separation plant flowsheet](figures/dwsim_oil_gas_flowsheet.png)
+![DWSIM oil & gas separation plant flowsheet](./figures/dwsim_oil_gas_flowsheet.png)
 
 **Optimisation results** (vs design base case from Andreasen 2022, Table 1):
 - Crude oil recovery: **+0.72%** (+20 kmol/h)
